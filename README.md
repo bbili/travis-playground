@@ -4,3 +4,5 @@ travis-playground [![Build Status](https://secure.travis-ci.org/marcelduran/trav
 .travis.yml playground
 
 Add something to test.
+
+Another test.
